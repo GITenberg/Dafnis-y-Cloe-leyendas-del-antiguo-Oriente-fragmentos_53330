@@ -1,0 +1,37 @@
+_repo: Dafnis-y-Cloe-leyendas-del-antiguo-Oriente-fragmentos_53330
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Valera, Juan
+    aliases:
+    - Galiano, Juan Valera y Alcalá
+    - Galiano, Juan Valera y Alcala
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '4923'
+    url: http://www.gutenberg.org/2009/agents/4923
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Juan_Valera_y_Alcala_Galiano
+    - http://es.wikipedia.org/wiki/Juan_Valera
+  - agent_name: Longus
+    aliases:
+    - Λόγγος
+    - Longos
+    gutenberg_agent_id: '38790'
+    url: http://www.gutenberg.org/2009/agents/38790
+description: ''
+gutenberg_issued: '2016-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53330'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Daphnis (Greek mythology) -- Fiction'
+- !lcsh 'Spanish literature'
+- GITenberg
+title: Dafnis y Cloe; leyendas del antiguo Oriente (fragmentos)
+url: http://www.gutenberg.org/ebooks/53330
