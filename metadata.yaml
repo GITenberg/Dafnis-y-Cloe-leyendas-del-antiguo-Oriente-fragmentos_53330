@@ -1,5 +1,8 @@
 _repo: Dafnis-y-Cloe-leyendas-del-antiguo-Oriente-fragmentos_53330
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53330-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Valera, Juan
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '38790'
     url: http://www.gutenberg.org/2009/agents/38790
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53330#Dafnis-y-Cloe-leyendas-del-antiguo-Oriente-fragmentos
 gutenberg_issued: '2016-10-20'
 gutenberg_type: Text
 identifiers:
